@@ -11,6 +11,6 @@ if (day % 5 === 0) {
     console.log('あなたはネガティブな性格です')
 } else if (day % 5 === 3){
     console.log('あなたはアクティブな性格です')
-} else {
+}  else {
     console.log('あなたはポジティブな性格です')
 }
