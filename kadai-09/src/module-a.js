@@ -1,4 +1,4 @@
 const moduleA = () => {
-    console.log('Hello,B!')
+    console.log('Hello,A!')
 }
 module.exports = moduleA

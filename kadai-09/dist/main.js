@@ -1,1 +1,1 @@
-(() =>{var r={902:r=>{r.exports=()=>{alert("Hello,A!")}},78:r=>{r.exports=()=>{alert("Hello,B!")}}},e={};function t(o){if(e[o])return e[o].exports;var s=e[o]={exports:{}};return r[o](s,s.exports,t),s.exports}(()=>{const r=t(902),e=t(78);r(),e()})()})();
+(()=>{var o={902:o=>{o.exports=()=>{console.log("Hello,A!")}},78:o=>{o.exports=()=>{console.log("Hello,B!")}}},e={};function r(t){if(e[t])return e[t].exports;var s=e[t]={exports:{}};return o[t](s,s.exports,r),s.exports}(()=>{const o=r(902),e=r(78);o(),e()})()})();
